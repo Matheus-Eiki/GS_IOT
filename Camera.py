@@ -31,7 +31,7 @@ hands = mp_hands.Hands(
 )
 
 # CÂMERA
-camera = cv2.VideoCapture(0)
+camera = cv2.VideoCapture(1, cv2.CAP_DSHOW) #camera = cv2.VideoCapture(0)
 camera.set(cv2.CAP_PROP_FRAME_WIDTH, 1280)
 camera.set(cv2.CAP_PROP_FRAME_HEIGHT, 720)
 

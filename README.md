@@ -1,8 +1,14 @@
 # GS_IOT - Moving Health
 
-Projeto desenvolvido para promover acessibilidade e comunicação simplificada dentro de residências, permitindo que pessoas com dificuldades de comunicação enviem sinais rápidos de **Sim** ou **Não** utilizando gestos capturados por câmera e sinalizados por cores (lâmpadas vermelha e verde).
+Este projeto foi criado para promover acessibilidade as pessoas com problemas de locomoção, para que seja possível que elas recebam tratamentos de maneira mais rápida ao invés de irem para o hospital que em alguns casos não é possível, os médicos vão até suas casas para um atendimento mais rápido para o caso.
+Utilizamos o ESP32 para que auxilie com a comunicação, permitindo que pessoas com dificuldades enviem sinais rápidos de **Sim** ou **Não** utilizando gestos capturados por câmera e sinalizados por cores (lâmpadas vermelha e verde).
 
 ---
+##  Integrantes
+
+* **RM559483 - Matheus Ikeda**
+* **RM560723 - Davis Junior**
+* **RM560340 - Matheus Machado**
 
 ## 🎯 Proposta do Projeto
 

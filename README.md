@@ -4,9 +4,10 @@ Este projeto foi criado para promover acessibilidade as pessoas com problemas de
 Utilizamos o ESP32 para que auxilie com a comunicação, permitindo que pessoas com dificuldades enviem sinais rápidos de **Sim** ou **Não** utilizando gestos capturados por câmera e sinalizados por cores (lâmpadas vermelha e verde).
 
 ---
-## Link Wokwi
+## Links
 
 * https://wokwi.com/projects/479996866396560385
+* Caso o vídeo no repositório não rode: https://www.youtube.com/watch?v=ByYXcnte1iI
 
 ##  Integrantes
 
